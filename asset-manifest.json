@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/eduardsuarez/introduccion-react-AppTODOst/static/css/main.f83f21e9.css",
-    "main.js": "/eduardsuarez/introduccion-react-AppTODOst/static/js/main.c1dcdb6c.js",
-    "index.html": "/eduardsuarez/introduccion-react-AppTODOst/index.html",
-    "main.f83f21e9.css.map": "/eduardsuarez/introduccion-react-AppTODOst/static/css/main.f83f21e9.css.map",
-    "main.c1dcdb6c.js.map": "/eduardsuarez/introduccion-react-AppTODOst/static/js/main.c1dcdb6c.js.map"
+    "main.css": "/introduccion-react-AppTODOs/static/css/main.f83f21e9.css",
+    "main.js": "/introduccion-react-AppTODOs/static/js/main.c1dcdb6c.js",
+    "index.html": "/introduccion-react-AppTODOs/index.html",
+    "main.f83f21e9.css.map": "/introduccion-react-AppTODOs/static/css/main.f83f21e9.css.map",
+    "main.c1dcdb6c.js.map": "/introduccion-react-AppTODOs/static/js/main.c1dcdb6c.js.map"
   },
   "entrypoints": [
     "static/css/main.f83f21e9.css",
